@@ -1,0 +1,101 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #000000;
+    text-align: center;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.introduction {
+    text-align: left;
+    color: white;
+    font-size: 10px;
+    font-weight: bolder;
+}
+
+#starters_image_div {
+    text-align: center;
+}
+
+#starters_image_div img {
+    border: solid rgb(70,100,255);
+    padding: 5px;
+    width: 400px;
+}
+
+h1 {
+    background-color: rgb(68, 74, 158);
+    color: orange;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+ul {
+    text-align: left;
+    color: white;
+    font-size: 15px;
+    margin-bottom: 50px;
+    font-weight: bolder;
+}
+
+#first_paragraph {
+    text-align: left;
+    color: white;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.pokemon_names {
+    text-align: left;
+    font-size: 20;
+    margin-bottom: 0px;
+    font-weight: bolder;
+}
+
+.pokemon_description {
+    text-align: left;
+    font-size: 15px;
+    margin-bottom: 0px;
+    padding: 5px;
+    font-weight: bolder;
+}
+
+#bulbasaur_container {
+    background-color: lightgreen;
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 50px;
+    border-color: yellow; border-style: solid;
+
+}
+
+#charmander_container {
+    background-color: rgb(240, 197, 118);
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+    border-color: yellow; border-style: solid;
+
+}
+
+#squirtle_container {
+    background-color: rgb(101, 197, 235);
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+    border-color: yellow; border-style: solid;
+    
+}
+
+.pokemon_images {
+    height: 300px;
+    width: 300px;
+}
+footer {
+    color: white;
+    text-align: left;
+    margin-top: 100px;
+    font-size: 10px;
+}
